@@ -34,3 +34,17 @@ body {
     width: 200px;
     height: 200px;
 } 
+
+.section-title {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+    color: #023047;
+}
+
+.section-text {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #023047;
+}
